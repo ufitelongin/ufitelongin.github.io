@@ -4,7 +4,7 @@ Data Scientist with strong expertise in public health analytics, machine learnin
 ## Technical Skills: 
 #### Programming Languages
 - R programming
-- Python
+- Python 
   
 #### Databases
 - PostgreSQL
