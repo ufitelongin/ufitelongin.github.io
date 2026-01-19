@@ -3,16 +3,18 @@ Data Scientist with strong expertise in public health analytics, machine learnin
 
 ## Technical Skills: 
 #### Programming Languages
-- R
+- R programming
 - Python
+  
 #### Databases
 - PostgreSQL
 - MySQL
 - MongoDB
-#### Online Data Collection Tools
+  
+#### Online Data Collection Tools 
 - ODK
 - KoboCollect
-- Google Forms
+- Online Data collection Tools
 #### Geographic Information Systems (GIS)
 - QGIS (Spatial mapping and visualization)
 
