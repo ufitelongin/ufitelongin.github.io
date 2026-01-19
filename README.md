@@ -3,18 +3,18 @@ Data Scientist with strong expertise in public health analytics, machine learnin
 
 ## Technical Skills: 
 ### Programming Languages
-. R
-. Python
+- R
+- Python
 ### Databases
-. PostgreSQL
-. MySQL
-.MongoDB
+- PostgreSQL
+- MySQL
+- MongoDB
 ### Online Data Collection Tools
-. ODK
-. KoboCollect
-. Google Forms
+- ODK
+- KoboCollect
+- Google Forms
 ### Geographic Information Systems (GIS)
-. QGIS (Spatial mapping and visualization)
+- QGIS (Spatial mapping and visualization)
 
 ## Education					       		
 - Masters of Data science	| The University of Rwanda at Africa Centre of Excellence in Data Science (_2024_)	 			        		
