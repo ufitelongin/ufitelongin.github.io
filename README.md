@@ -1,7 +1,7 @@
 # Data Scientist
 Data Scientist with strong expertise in public health analytics, machine learning, and epidemiological surveillance. Experienced in applying statistical and artificial intelligence models to predict disease trends, identify factors associated with health outcomes, and support evidence-based decision-making. Passionate about using data-driven approaches to strengthen public health systems and policy formulation.
 
-## ${\color{blue}\textbf{ Technical\ Skills}}}: 
+## ${\color{blue}\textbf{ Technical\ Skills}}$
 - **Programming Languages**: R and Python Programming. <br>
 - **Databases**: PostgreSQL,MySQL, and MongoDB. <br>
 - **Online Data Collection Tools**: ODK, KoboCollect, and Online Data collection Tools. <br>
