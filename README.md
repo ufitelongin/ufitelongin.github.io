@@ -26,6 +26,7 @@ Data Scientist with strong expertise in public health analytics, machine learnin
 - Produced weekly, monthly, and annual reports for hospital and district-level decision-making.<br>
 - Collaborated with MOH, RBC, and partners to enhance data-driven healthcare interventions.<br>
 ## ${\color{blue}\textbf{\text{Training \& Certifications}}}$
+
 - Epiverse Epidemiological Data Science Training for Africa( June-December 2025)
 - RRT Manager Training – RBC, CDC Africa & WHO (2024)
 - VHF Surveillance & 7-1-7 Global Indicators – RBC (2023)
