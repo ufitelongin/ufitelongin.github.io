@@ -11,7 +11,7 @@ Data Scientist with strong expertise in public health analytics, machine learnin
 - Masters of Data science	| The University of Rwanda at Africa Centre of Excellence in Data Science (_2024_)	 			        		
 - B.S of Applied Mathematics | The University of Rwanda (_2014_)
 
-## Work Experience
+## ${\color{blue}\textbf{Work \ Experience}}$
 **1. Data Manager at Rwanda Biomedical Centre(_2023-Present_)** <br>
 - Developed and implemented procedures for effective data management and security.<br>
 - Oversaw and supported data managers in the daily use of health information systems.<br>
@@ -25,7 +25,7 @@ Data Scientist with strong expertise in public health analytics, machine learnin
 - Managed HIV and PEPFAR data reporting, ensuring compliance with DHIS2, DATIM, and other national systems.<br>
 - Produced weekly, monthly, and annual reports for hospital and district-level decision-making.<br>
 - Collaborated with MOH, RBC, and partners to enhance data-driven healthcare interventions.<br>
-## ${\color{blue}\textbf{\textsf{Training "&" Certifications}}}$
+## ${\color{blue}\textbf{\textsf{Training and  Certifications}}}$
 
 
 - Epiverse Epidemiological Data Science Training for Africa( June-December 2025)
