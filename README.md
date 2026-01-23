@@ -2,21 +2,10 @@
 Data Scientist with strong expertise in public health analytics, machine learning, and epidemiological surveillance. Experienced in applying statistical and artificial intelligence models to predict disease trends, identify factors associated with health outcomes, and support evidence-based decision-making. Passionate about using data-driven approaches to strengthen public health systems and policy formulation.
 
 ## Technical Skills: 
-- **Programming Languages**: R and Python Programming 
-- R programming
-- Python 
-  
-#### Databases
-- PostgreSQL
-- MySQL
-- MongoDB
-  
-#### Online Data Collection Tools 
-- ODK
-- KoboCollect
-- Online Data collection Tools
-#### Geographic Information Systems (GIS)
-- QGIS (Spatial mapping and visualization)
+- **Programming Languages**: R and Python Programming. <br>
+- **Databases**: PostgreSQL,MySQL, and MongoDB. <br>
+- **Online Data Collection Tools**: ODK, KoboCollect, and Online Data collection Tools. <br>
+- **Geographic Information Systems (GIS)**: QGIS (Spatial mapping and visualization). <br>
 
 ## Education					       		
 - Masters of Data science	| The University of Rwanda at Africa Centre of Excellence in Data Science (_2024_)	 			        		
