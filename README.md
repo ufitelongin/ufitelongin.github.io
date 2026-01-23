@@ -2,7 +2,7 @@
 Data Scientist with strong expertise in public health analytics, machine learning, and epidemiological surveillance. Experienced in applying statistical and artificial intelligence models to predict disease trends, identify factors associated with health outcomes, and support evidence-based decision-making. Passionate about using data-driven approaches to strengthen public health systems and policy formulation.
 
 ## Technical Skills: 
-#### Programming Languages
+- **Programming Languages**: R and Python Programming 
 - R programming
 - Python 
   
