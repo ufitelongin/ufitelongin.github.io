@@ -30,4 +30,10 @@ Data Scientist with strong expertise in public health analytics, machine learnin
 • Provided technical support in quality data collection, storage, and reporting across health facilities.<br>
 • Designed dashboards and reports for stakeholders to inform policy and health interventions.<br>
 
-- **Data Manager at Kabgayi Hospital(_2017-2023_)**
+- <u>**Data Manager at Kabgayi Hospital(_2017-2023_)** </u>
+- Conducted data quality assessments and protocol validations to improve reporting accuracy.<br>
+- Trained and mentored data managers and clinical staff on data systems and reporting tools.<br>
+- Managed HIV and PEPFAR data reporting, ensuring compliance with DHIS2, DATIM, and other national systems.<br>
+- Produced weekly, monthly, and annual reports for hospital and district-level decision-making.<br>
+- Collaborated with MOH, RBC, and partners to enhance data-driven healthcare interventions.<br>
+
