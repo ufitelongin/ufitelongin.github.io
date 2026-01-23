@@ -7,7 +7,7 @@ Data Scientist with strong expertise in public health analytics, machine learnin
 - **Online Data Collection Tools**: ODK, KoboCollect, and Online Data collection Tools. <br>
 - **Geographic Information Systems (GIS)**: QGIS (Spatial mapping and visualization). <br>
 
-## Education					       		
+## ${\color{blue}\textbf{Education}}$					       		
 - Masters of Data science	| The University of Rwanda at Africa Centre of Excellence in Data Science (_2024_)	 			        		
 - B.S of Applied Mathematics | The University of Rwanda (_2014_)
 
