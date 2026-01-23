@@ -40,6 +40,7 @@ Data Scientist with strong expertise in public health analytics, machine learnin
 - French: Advanced
 - Kinyarwanda: Native
 
+# ${\color{blue}\mathbf{Professional\ Experience}}$
 
 
 
