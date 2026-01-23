@@ -23,14 +23,14 @@ Data Scientist with strong expertise in public health analytics, machine learnin
 - B.S of Applied Mathematics | The University of Rwanda (_2014_)
 
 ## Work Experience
-- **Data Manager at Rwanda Biomedical Centre(2023-Present)** <br>
+**1. Data Manager at Rwanda Biomedical Centre(2023-Present)** <br>
 • Developed and implemented procedures for effective data management and security.<br>
 • Oversaw and supported data managers in the daily use of health information systems.<br>
 • Monitored and evaluated data systems, ensuring data accuracy, consistency, and reliability.<br>
 • Provided technical support in quality data collection, storage, and reporting across health facilities.<br>
 • Designed dashboards and reports for stakeholders to inform policy and health interventions.<br>
 
-- <u>**Data Manager at Kabgayi Hospital(_2017-2023_)** </u>
+<u>**2. Data Manager at Kabgayi Hospital(_2017-2023_)** </u>
 - Conducted data quality assessments and protocol validations to improve reporting accuracy.<br>
 - Trained and mentored data managers and clinical staff on data systems and reporting tools.<br>
 - Managed HIV and PEPFAR data reporting, ensuring compliance with DHIS2, DATIM, and other national systems.<br>
