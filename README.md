@@ -35,7 +35,7 @@ Data Scientist with strong expertise in public health analytics, machine learnin
 - Advanced Biostatistical Methods: Multilevel Models & Cluster Randomized Trials – Eldoret, Kenya (2019)
 - HIV & ART-related Cardiometabolic Research – RASD Rwanda (2019)
 - R Programming Training – NHLBI TREIN/Hy-TREC Program (2019)
-## ${\blue}Languages}$
+## ${\{blue}Languages}$
 - English: Fluent
 - French: Advanced
 - Kinyarwanda: Native
