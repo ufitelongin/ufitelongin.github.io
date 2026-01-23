@@ -25,7 +25,8 @@ Data Scientist with strong expertise in public health analytics, machine learnin
 - Managed HIV and PEPFAR data reporting, ensuring compliance with DHIS2, DATIM, and other national systems.<br>
 - Produced weekly, monthly, and annual reports for hospital and district-level decision-making.<br>
 - Collaborated with MOH, RBC, and partners to enhance data-driven healthcare interventions.<br>
-## ${\color{blue}\textbf{\text{Training and  Certifications}}}$
+## ${\color{blue}\textbf{\textsf{Training and Certifications}}}$
+
 
 - Epiverse Epidemiological Data Science Training for Africa( June-December 2025)
 - RRT Manager Training – RBC, CDC Africa & WHO (2024)
